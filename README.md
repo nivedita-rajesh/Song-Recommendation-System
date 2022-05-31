@@ -1,4 +1,4 @@
-# Song-Reccomendation-System
+# Song-Recommendation-System
 
-To build a song reccomendation system that reccomends song based on emotions.
+To build a song recommendation system that recommends song based on emotions.
 Emotions recogonised through speech.
