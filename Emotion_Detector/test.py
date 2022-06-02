@@ -145,6 +145,8 @@ if __name__ == "__main__":
 
     # predict
     result = model.predict(features)[0]
+    with open("F:\S4\Projects\Song-Reccomendation-System\Result.txt", mode="wt") as f:
+        f.write(result)
 
     print("\n")
     # show the result !
